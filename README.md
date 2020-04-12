@@ -1,4 +1,4 @@
-## Veja em ação no [Netlify](https://gregdusoli-codenation-m01c01.netlify.com/)
+## Veja a versão final no <a href="https://gregdusoli-codenation-m01c01.netlify.com" target="_blank">Netlify</a>
 ---
   
 ## Objetivo: 

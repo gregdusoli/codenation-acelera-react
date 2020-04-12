@@ -1,4 +1,5 @@
-# Site estático: 🎥 IMDB  
+## Veja em ação no [Netlify](https://gregdusoli-codenation-m01c01.netlify.com/)
+---
   
 ## Objetivo: 
 O desafio é desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e **CSS3**.
